@@ -15,7 +15,6 @@
 #define TREE_H
 
 #include "Node.h"
-
 void createTree();//创建树
 bool destroyTreeRoot(); //销毁树
 
